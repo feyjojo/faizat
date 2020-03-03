@@ -1,5 +1,7 @@
 # faizat
 
+[СГА НКБ](https://docs.google.com/document/d/1J2x8zwGchIT_ZKFNtBd31RIXE7TUvSn45lMWiMc9iaE/edit#)
+
 ## Паркинсон
 
 [Законы Паркинсона](https://ru.wikipedia.org/wiki/Законы_Паркинсона)
